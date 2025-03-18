@@ -55,9 +55,6 @@ This document outlines the testing methodology, strategy, and scope for validati
 ### Environment:
 - UAT and Pre-Production Environments  
 
-### Tools:
-- Selenium, Postman, Jira  
-
 ---
 
 ## 6. Roles & Responsibilities
