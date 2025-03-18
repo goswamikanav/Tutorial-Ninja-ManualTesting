@@ -94,15 +94,7 @@ This document outlines the testing methodology, strategy, and scope for validati
 
 ---
 
-## 10. Risks and Mitigation Plans
-| Risk                                | Mitigation Plan                              |
-|-------------------------------------|---------------------------------------------|
-| Delays in Test Environment Setup    | Coordinate with the DevOps team for timely setup. |
-| Incomplete Requirements Documentation | Collaborate with subject matter experts for clarity. |
-
----
-
-## 11. Approvals
+## 10. Approvals
 Testing activities will commence only after receiving the following approvals:  
 - Test Plan  
 - Test Cases  
